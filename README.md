@@ -21,3 +21,5 @@ An end-to-end Data Engineering and Machine Learning pipeline that predicts futur
 * Handling of missing data and date hierarchies
 * 30-day accurate demand forecasting with risk margins (min/max sales)
 * Interactive executive dashboard for inventory planning
+## 📊 Dashboard Preview
+![Power BI Dashboard](dashboard.png)
